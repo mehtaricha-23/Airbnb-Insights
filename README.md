@@ -37,9 +37,11 @@ This project uses Airbnb dataset from **Kaggle**. Ensure the data files are plac
 
 ## 📈 Visualizations
 We generate insightful charts such as:
-![Project Screenshot](https://your-Images/Expensive%20nighbourhood.png)
 
 - Heatmaps for correlation analysis.
+- ![Heatmap](Images/Correlation%20Heatmap.png)
+-
+
 - Boxplots to identify outliers.
 - Bar charts for popular neighborhoods.
 
