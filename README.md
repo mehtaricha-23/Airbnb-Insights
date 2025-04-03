@@ -37,7 +37,7 @@ This project uses Airbnb dataset from **Kaggle**. Ensure the data files are plac
 
 ## 📈 Visualizations
 We generate insightful charts such as:
-- ##🔹 Top 10 Expensive Neighbourhood
+- 🔹 Top 10 Expensive Neighbourhood
 - ![Expensive Neighbourhood](Images/Expensive%20nighbourhood.png)
 
 - 🔹 Top 10 Hosts with Highest Ratings
