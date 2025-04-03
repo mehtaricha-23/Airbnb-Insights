@@ -37,13 +37,21 @@ This project uses Airbnb dataset from **Kaggle**. Ensure the data files are plac
 
 ## 📈 Visualizations
 We generate insightful charts such as:
+- ##🔹 Top 10 Expensive Neighbourhood
+- ![Expensive Neighbourhood](Images/Expensive%20nighbourhood.png)
 
-- Heatmaps for correlation analysis.
-- ![Heatmap](Images/Correlation%20Heatmap.png)
--
+- 🔹 Top 10 Hosts with Highest Ratings
+- ![🔹 Top 10 Hosts with Highest Ratings](Images/Hosts%20High%20Ratings.png)
 
-- Boxplots to identify outliers.
-- Bar charts for popular neighborhoods.
+- 🔹 Heatmaps for correlation analysis.
+- ![🔹 Correlation Heatmap](Images/Correlation%20Heatmap.png)
+
+- 🔹 Price Distribution by Room Type.
+- ![🔹 Price Distribution by Room Type](Images/Price%20By%20Room%20Type.png)
+
+-   🔹 Boxplots to identify outliers.
+- ![🔹 Price Trends Over Time](Images/Price%20Trends%20Over%20Time.png)
+
 
 ## 🤖 Machine Learning - Price Prediction
 We apply **Linear Regression** to predict the price of an Airbnb listing based on:
