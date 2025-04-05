@@ -62,7 +62,7 @@ We apply **Linear Regression** to predict the price of an Airbnb listing based o
 - Reviews
 
 ## 📈 Visualizations
-🔹 Price Pridiction .
+🔹 Price Pridiction 
 ![Pridicted Price](https://github.com/mehtaricha-23/Airbnb-Insights/blob/main/Images/Pridicted%20Price.png)
 
 
