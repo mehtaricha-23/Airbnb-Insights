@@ -49,11 +49,10 @@ We generate insightful charts such as:
 - 🔹 Price Distribution by Room Type.
 - ![🔹 Price Distribution by Room Type](Images/Price%20By%20Room%20Type.png)
 
--   🔹 Boxplots to identify outliers.
-    🔹 Price Trends Over Time](Images/Price%20Trends%20Over%20Time.png)
+-  🔹 Boxplots to identify outliers.
+   🔹 ![Price Trends Over Time](Images/Price%20Trends%20Over%20Time.png)
 
- -  🔹 Price Pridiction .
-   ![Pridicted Price]("Images/Pridicted%20Price.png")
+ - 
 
 ## 🤖 Machine Learning - Price Prediction
 We apply **Linear Regression** to predict the price of an Airbnb listing based on:
