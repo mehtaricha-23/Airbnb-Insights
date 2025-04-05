@@ -60,6 +60,10 @@ We apply **Linear Regression** to predict the price of an Airbnb listing based o
 - Room Type
 - Reviews
 
+## 📈 Visualizations
+![Pridicted Price]("\Images\Pridicted Price.png")
+
+
 ## 📝 Conclusion
 - Identified **factors affecting Airbnb prices**.
 - Developed a **predictive model** for rental prices.
