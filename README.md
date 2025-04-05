@@ -1,6 +1,6 @@
 # 🏡 Airbnb Data Analysis
 
-![Airbnb Analysis](https://your-image-link-here.com/image.jpg)
+![Airbnb Analysis](https://github.com/mehtaricha-23/Airbnb-Insights/blob/main/Images/Airbnb.jpeg)
 
 ## 📌 Project Overview
 This project analyzes Airbnb data to uncover insights related to pricing, neighborhood trends, and host activity. We use **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn** for data manipulation, visualization, and machine learning.
